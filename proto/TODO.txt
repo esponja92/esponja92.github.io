@@ -1,0 +1,2 @@
+- A tela de abertura pode ser uma fase jogável
+- O chefão pode ser uma bola de outra cor. Para ser derrotado, precisa receber 10 boladas do Proto. Algo no estilo do tutorial de ia

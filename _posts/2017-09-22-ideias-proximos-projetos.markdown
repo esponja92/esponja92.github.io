@@ -4,7 +4,7 @@ title: Idéias para próximos projetos
 category: posts
 ---
 
-Depois que comecei a pensar (e fazer) jogos, uma enxurrada de idéias para novos jogos têm vindo diariamente tem surgido. Muito provavelmente são mais idéias do que eu poderei executar, mas quem sabe? Então, este post rápido serve para resumir essas idéias, apresentá-las ao mundo, e principalmente, não esquecer!
+Depois que comecei a pensar (e fazer) jogos, tenho pensado diariamente em uma enxurrada de idéias para novos jogos. Muito provavelmente são mais idéias do que eu poderei executar, mas quem sabe? Então, este post rápido serve para resumir essas idéias, apresentá-las ao mundo, e principalmente, não esquecer!
 
 Todas as idéias estão incompletas, e colocarei nomes provisórios apenas para identificação. 
 

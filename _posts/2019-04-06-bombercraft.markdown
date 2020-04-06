@@ -13,4 +13,4 @@ Com algumas features que surgiram sem querer (como o "bullet time" que se pode f
 Também pensei em criar uma mecânica que permita usar o material coletável como uma espécia de "moeda de troca" para a progressão da bomba.
 
 O download da versão Windows pode ser feito no link:
-![Eventos com comentários!]({{ site.url }}/bombercraft/exe/bombercraft.rar)
+http://esponja92.github.io/bombercraft/exe/bombercraft.rar

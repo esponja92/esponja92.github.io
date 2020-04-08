@@ -9,7 +9,7 @@ category: posts
 
 Fiz esse protótipo em um final de semana. Eu chamo ele de "Bombercraft". A idéia é misturar a mecânica do Bomberman de plataforma ("Pocket Bomberman" do Game Boy Color) com alguns elementos de crafting. 
 
-![Eventos com comentários!]({{ site.url }}/images/bombercraft.jpg)
+<img src="http://esponja92.github.io/images/bombercraft.jpg" />
 
 Com algumas features que surgiram sem querer (como o "bullet time" que se pode fazer abrindo a cruz com o bomberman no ar) eu acho que dá para usar a mecânica de plantar novas plataformas em fases para resolução de puzzles, limitando a quantidade de material coletável disponível.
 
@@ -23,6 +23,7 @@ A idéia é mexer um pouco com a mecânica do tipo "Infinity Runner", sendo que 
 
 E eu usei os sprites de Pokémon Leaf Green porque acho os gráficos de GBA muito bacanas :D
 
+<img src="http://esponja92.github.io/images/dora.PNG" />
 Jogo disponível <a href="https://esponja92.github.io/dora/html5/"> neste link </a> 
 
 </section>

@@ -3,7 +3,6 @@ layout: post
 title: Seção dos protótipos
 category: posts
 ---
-<section class="content">
 
 <h1> Bombercraft </h1>
 
@@ -17,6 +16,8 @@ Também pensei em criar uma mecânica que permita usar o material coletável com
 
 O download da versão Windows pode ser feito <a href="http://esponja92.github.io/bombercraft/exe/bombercraft.rar"> neste link </a> 
 
+<br>
+
 <h1> Dora </h1>
 
 A idéia é mexer um pouco com a mecânica do tipo "Infinity Runner", sendo que aqui você precisa garantir que a Dora continue correndo. Esse protótipo contempla a base do jogo, mas pensei que ficaria divertido acrescentando itens que variassem a velocidade da dora, dos blocos, dos inimigos, etc.
@@ -25,7 +26,3 @@ E eu usei os sprites de Pokémon Leaf Green porque acho os gráficos de GBA muit
 
 <img src="http://esponja92.github.io/images/dora.PNG" />
 Jogo disponível <a href="https://esponja92.github.io/dora/html5/"> neste link </a> 
-
-</section>
-
-
